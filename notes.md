@@ -28,6 +28,7 @@ DevOps connection: nearly everything later (CI/CD, Docker, Terraform, Kubernetes
 
 ---
 
+
 ## 2. A Commit Is a Snapshot
 
 Git does **not** store "the changes". A commit stores a **snapshot** of all tracked files at that moment (unchanged files are reused, not copied again).
