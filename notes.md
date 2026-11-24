@@ -4,6 +4,7 @@ Date: 2026-11-24
 
 How to use this file: read it once (about 40 minutes), then do the exercises in the week 3 plan. Each section ends with what I must be able to do without notes. Commands marked "(check)" differ between versions or were not tested on my machine. Before it goes into my repo, I rewrite the parts I use in my own words.
 
+
 ---
 
 ## 1. The Big Picture
