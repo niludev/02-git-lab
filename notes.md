@@ -9,6 +9,7 @@ How to use this file: read it once (about 40 minutes), then do the exercises in 
 
 ## 1. The Big Picture
 
+
 **Version control** is a system that records every change of a project, so I can go back, compare, and work with other people without overwriting each other.
 
 **Git** is a **distributed** version control system. "Distributed" means every copy (clone) has the **full history**, not only the latest files. Because of that, most work (commit, branch, log) is local and needs no network.
